@@ -1,4 +1,12 @@
 #model-zoo
+
+This repository contains deep learning models. Keep updating....
+
+* Top-1, Top-5 are accuracy in imagenet which I get from Internet.
+
+* C -> Caffe, M -> MXNet, C2 -> Caffe2
+
+
 | Model | Top-1 | Top-5 | Caffe | MXNet | Caffe2 |
 |:-----|:------:|------:|------:|------:|------:|
 | alexnet | C_57.1 | C_80.2 | [243.86M](https://github.com/BVLC/caffe/tree/master/models/bvlc_alexnet) |  |  |
