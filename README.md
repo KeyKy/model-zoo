@@ -15,9 +15,9 @@ This repository contains deep learning models. Keep updating....
 | SqueezeNet1.0| M_55.4 | C_>=80.3 M_78.8 | [4.8M](https://github.com/DeepScale/SqueezeNet) | [4.8M](https://github.com/dmlc/mxnet-model-gallery/blob/master/imagenet-1k-squeezenet.md) | |
 | SqueezeNet1.1 2.4x less computation than 1.0 | C_sameAs1.0 | C_>=80.3 | [4.7M](https://github.com/DeepScale/SqueezeNet/tree/master/SqueezeNet_v1.1)  | [4.7M](http://data.dmlc.ml/models/imagenet/squeezenet/) | |
 | VGG16 | M_71.0 | C_92.5 M_89.9 | [528M](http://www.robots.ox.ac.uk/~vgg/research/very_deep/) | [528M](https://github.com/dmlc/mxnet-model-gallery/blob/master/imagenet-1k-vgg.md) | |
-| VGG19 | M_71.0 | C_92.5 M_89.8 | [548](http://www.robots.ox.ac.uk/~vgg/research/very_deep/) | [548M](http://data.dmlc.ml/models/imagenet/vgg/) | |
-|  | | | | | |
-| | | | | | |
+| VGG19 | M_71.0 | C_92.5 M_89.8 | [548M](http://www.robots.ox.ac.uk/~vgg/research/very_deep/) | [548M](http://data.dmlc.ml/models/imagenet/vgg/) | |
+| GoogleNet | C_68.7 | C_88.9 | [53.53M](https://github.com/BVLC/caffe/tree/master/models/bvlc_googlenet) | | |
+| Inception-v2(Inception-bn) | M_72.5 | M_90.8 | [134.6M ImageNet21k](https://github.com/pertusa/InceptionBN-21K-for-Caffe)| [43M ImageNet10k](https://github.com/dmlc/mxnet-model-gallery/blob/master/imagenet-1k-inception-bn.md) | |
 | | | | | | |
 | | | | | | |
 | | | | | | |
