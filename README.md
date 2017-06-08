@@ -30,4 +30,6 @@ This repository contains deep learning models. Keep updating....
 | ResNet V2 50 | T_75.6 | T_92.8 |  | |  | [*](https://github.com/tensorflow/models/tree/master/slim) |
 | ResNet V2 101 | T_77.0 | T_93.7 |  | |  | [*](https://github.com/tensorflow/models/tree/master/slim) |
 | ResNet V2 152 | T_77.8 | T_94.1 |  | |  | [*](https://github.com/tensorflow/models/tree/master/slim) |
-
+| ResNext-50 | M_76.89 | M_93.32 | | [96M](https://github.com/dmlc/mxnet/tree/master/example/image-classification#imagenet-1k) | | |
+| ResNext-101 | M_78.28 | M_94.08 | | [169M](https://github.com/dmlc/mxnet/tree/master/example/image-classification#imagenet-1k) | | |
+| RexNext-101-64x4d | M_79.11 | M_94.30 | | [319M](https://github.com/dmlc/mxnet/tree/master/example/image-classification#imagenet-1k) | | |
