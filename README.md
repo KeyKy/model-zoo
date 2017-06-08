@@ -34,3 +34,14 @@ This repository contains deep learning models. Keep updating....
 | ResNeXt-101 | C_79.8 M_78.28 | C_95.1 M_94.08 | [169.10M](https://github.com/cypw/ResNeXt-1) | [169M](https://github.com/dmlc/mxnet/tree/master/example/image-classification#imagenet-1k) | | |
 | ResNeXt-152 | C_80.1 | C_95.2 | [229.53M](https://github.com/cypw/ResNeXt-1) | | | |
 | RexNeXt-101-64x4d | C_80.5 M_79.11 | C_95.2 M_94.30 | | [319M](https://github.com/dmlc/mxnet/tree/master/example/image-classification#imagenet-1k) | | |
+| WRN-50-2-bottleneck | C_77.87 | C_93.87 | [263.1M](https://github.com/soeaver/caffe-model) | | | |
+| MobileNet | C_70.81 T_66.51 | C_89.85 T_87.09 | [16.2M](https://github.com/shicai/MobileNet-Caffe) | [sym](https://github.com/wranglerwong/MobileNet-MXNet)| | [*](https://github.com/Zehaos/MobileNet) |
+| DenseNet 121(k=32) | C_74.91 | C_92.19 | [30.8M](https://github.com/shicai/DenseNet-Caffe) | | | |
+| DenseNet 161(k=48) | C_77.64 | C_93.79 | [110M](https://github.com/shicai/DenseNet-Caffe) | | | |
+| DenseNet 169(k=32) | C_76.09 | C_93.14 | [54.6M](https://github.com/shicai/DenseNet-Caffe) | | | |
+| DenseNet 201(k=32) | C_77.31 | C_93.64 | [77.3M](https://github.com/shicai/DenseNet-Caffe) | [sym](https://github.com/bruinxiong/densenet.mxnet) | | |
+|CRU-Net-56 @x14 32x4d| M_78.1 | | | [98M](https://github.com/cypw/CRU-Net) | | |
+|CRU-Net-56 @x14 136x1d| M_78.3 | | | [98M](https://github.com/cypw/CRU-Net) | | |
+|CRU-Net-116 @x28x14 32x4d| M_79.4 | | | [168M](https://github.com/cypw/CRU-Net) | | |
+|CRU-Net-116, wider @x28x14 64x4d| M_79.7 | | | [318M](https://github.com/cypw/CRU-Net) | | |
+|CRU-Net-56, tiny @x14|32x4d| M_77.1 |  |  | [48MB](https://github.com/cypw/CRU-Net) |  |  | 
