@@ -27,5 +27,7 @@ This repository contains deep learning models. Keep updating....
 | ResNet-101 | C_76.4 M_77.32 T_76.4 | C_92.9 M_93.42 T_92.9 | [171M](https://github.com/KaimingHe/deep-residual-networks) | [170M](https://github.com/tornadomeet/ResNet) | | [*](https://github.com/tensorflow/models/blob/master/slim/README.md) |
 | ResNet-152 | C_77.0 M_77.75 T_76.8 | C_93.3 M_93.58 T_93.2 | [231M](https://github.com/KaimingHe/deep-residual-networks) | [230M](https://github.com/tornadomeet/ResNet)| | [*](https://github.com/tensorflow/models/blob/master/slim/README.md) |
 | ResNet-200 | M_77.86 | M_93.84 |  | [247M](https://github.com/tornadomeet/ResNet) | | |
-|  | | | | | | |
+| ResNet V2 50 | T_75.6 | T_92.8 |  | |  | [*](https://github.com/tensorflow/models/tree/master/slim) |
+| ResNet V2 101 | T_77.0 | T_93.7 |  | |  | [*](https://github.com/tensorflow/models/tree/master/slim) |
+| ResNet V2 152 | T_77.8 | T_94.1 |  | |  | [*](https://github.com/tensorflow/models/tree/master/slim) |
 
