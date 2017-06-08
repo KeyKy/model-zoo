@@ -44,4 +44,9 @@ This repository contains deep learning models. Keep updating....
 |CRU-Net-56 @x14 136x1d| M_78.3 | | | [98M](https://github.com/cypw/CRU-Net) | | |
 |CRU-Net-116 @x28x14 32x4d| M_79.4 | | | [168M](https://github.com/cypw/CRU-Net) | | |
 |CRU-Net-116, wider @x28x14 64x4d| M_79.7 | | | [318M](https://github.com/cypw/CRU-Net) | | |
-|CRU-Net-56, tiny @x14|32x4d| M_77.1 |  |  | [48MB](https://github.com/cypw/CRU-Net) |  |  | 
+|CRU-Net-56, tiny @x14|32x4d| M_77.1 |  | [48MB](https://github.com/cypw/CRU-Net) |  |  |  | 
+
+
+## Call for contribution
+
+- Anything helps this repo, including discussion, testing, promotion and of course your awesome code.
