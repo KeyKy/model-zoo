@@ -19,7 +19,7 @@ This repository contains deep learning models. Keep updating....
 | GoogleNet(Inception V1) | C_68.7 T_69.8 | C_88.9 T_89.6 | [53.53M](https://github.com/BVLC/caffe/tree/master/models/bvlc_googlenet) | | | [*](https://github.com/tensorflow/models/blob/master/slim/README.md) |
 | Inception-v2(Inception-bn) | M_72.5 T_73.9 | M_90.8 T_91.8 | [134.6M ImageNet21k](https://github.com/pertusa/InceptionBN-21K-for-Caffe)| [43M ImageNet10k](https://github.com/dmlc/mxnet-model-gallery/blob/master/imagenet-1k-inception-bn.md) | | [*](https://github.com/tensorflow/models/blob/master/slim/README.md) |
 | Inception-V3 | M_76.88 T_78.0 | M_93.344 T_93.9 | | [95.6M](https://github.com/dmlc/mxnet-model-gallery/blob/master/imagenet-1k-inception-v3.md)| | [*](https://github.com/tensorflow/models/blob/master/slim/README.md) |
-| Inception V4 | T_80.2 | T_95.2 |  | | | [*](https://github.com/tensorflow/models/blob/master/slim/README.md) |
+| Inception V4 | M_79.83 T_80.2 | M_94.69 T_95.2 | | [164M] | | [*](https://github.com/tensorflow/models/blob/master/slim/README.md) |
 | Inception-ResNet-v2 | M_80.13 T_80.4 | M_95.18 T_95.3 | | [213.33MB] | | [*](https://github.com/tensorflow/models/blob/master/slim/README.md) |
 | ResNet-18 | C_69 M_69.52 | M_89 M_89.08 | [45M](https://github.com/HolmesShuan/ResNet-18-Caffemodel-on-ImageNet) | [45M](https://github.com/tornadomeet/ResNet) | | |
 | ResNet-34 | M_72.8 | M_91.14 | | [83M](https://github.com/tornadomeet/ResNet) | | |
