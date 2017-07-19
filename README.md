@@ -45,7 +45,11 @@ This repository contains deep learning models. Keep updating....
 |CRU-Net-116 @x28x14 32x4d| M_79.4 | | | [168M](https://github.com/cypw/CRU-Net) | | |
 |CRU-Net-116, wider @x28x14 64x4d| M_79.7 | | | [318M](https://github.com/cypw/CRU-Net) | | |
 |CRU-Net-56, tiny @x14 32x4d| M_77.1 |  |  | [48MB](https://github.com/cypw/CRU-Net) |  |  |  
-
+|DPN-92 | M_79.27 | M_94.63 | | [145M](https://github.com/cypw/DPNs) |  |  |  
+|DPN-98 | M_79.85 | M_94.85 | | [236M](https://github.com/cypw/DPNs) |  |  |  
+|DPN-131| M_80.07 | M_94.88 | | [304M](https://github.com/cypw/DPNs) |  |  |  
+|DPN-107*| M_80.25| M_95.06 | | [333M](https://github.com/cypw/DPNs) |  |  |
+|PolyNet | C_81.289 | C_95.75 | [463M](https://github.com/CUHK-MMLAB/polynet) | |  |  |  
 
 ## Call for contribution
 
